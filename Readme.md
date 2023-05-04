@@ -1,7 +1,9 @@
-Hello!
-My name is Davi Rodrigues, I'm from Brazil and I would like to share with you my python projects
+Hello again!
 
-Actually I'm studying at FAESA, in Vitória, Es, and I'm loving everything!
-Ok, see a little bit of my codes if you can(and want) and bye bye!
+This is the repository where i will post some of my codes in Python
+Python, for me, is a very useful language, and its learning curve is very fast.
+So, you're welcome to see my codes and give me a feedback
 
-God bless u
+e-mail: davirnascimentox@gmail.com
+
+God Bless You! S2
